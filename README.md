@@ -7,7 +7,8 @@
 - I'm a Machine Learning master's student
 - 🔭 I’m currently working on Object detection and Visual SLAM
 - Here you can find some of my research work on Machine Learning, and Deep Learning projects
-- 📫 How to reach me: https://shivakarnati.github.io/fastreact/ or karnatishivakrishna@gmail.com
+- 📫 How to reach me: karnatishivakrishna@gmail.com
+- Checkout: https://shivakarnati.github.io/fastreact/
   
 
 	
